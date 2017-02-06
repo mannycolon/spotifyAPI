@@ -46,10 +46,8 @@ const styles = StyleSheet.create({
     color: clrs.white,
   },
   navBarTitleText: {
-    textAlign: 'center',
     fontWeight: '600',
     marginVertical: 9,
-    marginLeft: 60,
   },
   navBarLeftButton: {
     paddingLeft: 10,
