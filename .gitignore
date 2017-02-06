@@ -3,6 +3,8 @@
 
 *.properties
 .properties
+gradle.properties
+android/gradle.properties
 
 # OSX
 #
