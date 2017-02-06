@@ -3,7 +3,7 @@ Artist look up React-native app using Spotify Web API
 
 
 ## Set up
-In order to set up your development environment please go to [I'm an inline-style link](https://www.google.com)
+In order to set up your development environment please go to [react-native getting-started page](https://facebook.github.io/react-native/docs/getting-started.html)
 Android Emulator
 ---
 
