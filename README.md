@@ -2,10 +2,10 @@
 Artist look up React-native app using Spotify Web API
 
 
-## Development Environment Set Up
+### Development Environment Set Up
 In order to set up your development environment please go to [react-native getting-started page](https://facebook.github.io/react-native/docs/getting-started.html)
 
-Android Emulator
+### Android Emulator
 ---
 1. Run in the terminal the following command
 ```
@@ -17,7 +17,7 @@ android avd
 react-native run-android
 ```
 
-IOS Emulator
+### IOS Emulator
 ---
 1. Run in the terminal
 ```
