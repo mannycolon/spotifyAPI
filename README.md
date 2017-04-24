@@ -1,5 +1,5 @@
 # spotifyAPI
-Artist look up React-native app using Spotify Web API
+Artist look up React-native app using the Spotify Web API
 
 
 ### Development Environment Set Up
