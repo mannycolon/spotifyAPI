@@ -1,5 +1,6 @@
 {
   "name": "spotifyAPI",
+  "description": "React Native app that uses the Spotify Web API to look up artists",
   "version": "0.0.1",
   "private": true,
   "scripts": {
